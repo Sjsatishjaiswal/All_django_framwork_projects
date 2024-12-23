@@ -1,0 +1,1 @@
+# All_django_framwork_projects
